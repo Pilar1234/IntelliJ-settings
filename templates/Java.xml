@@ -1,0 +1,9 @@
+<templateSet group="Java">
+  <template name="test" value="@Test&#10;public void $NAME$() {&#10;// given&#10;    $DEFINITION$&#10;    &#10;// when&#10;&#10;// then&#10;    assertThat().isEqualTo();&#10;}" description="Generates test method with junit4" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFINITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
