@@ -1,59 +1,35 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="AnalysisProjectProfileManager">
-        <option name="PROJECT_PROFILE" />
-        <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
-        <list size="0" />
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="active-configuration" value="LOCAL_FILE:/home/User.JLRCentral.com/ppilarcz/Projects/checkstyle.xml:b2x-checkstyle" />
+            <entry key="checkstyle-version" value="8.38" />
+            <entry key="copy-libs" value="false" />
+            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+            <entry key="location-2" value="LOCAL_FILE:/home/User.JLRCentral.com/ppilarcz/Projects/checkstyle.xml:b2x-checkstyle" />
+            <entry key="property-2.org.checkstyle.google.suppressionfilter.config" value="" />
+            <entry key="property-2.org.checkstyle.google.suppressionxpathfilter.config" value="" />
+            <entry key="scan-before-checkin" value="false" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+          </map>
+        </option>
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="project.structure.last.edited" value="Problems" />
-        <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="last_opened_file_path" value="$USER_HOME$/Projects/checkstyle.xml" />
+        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
       </component>
-      <component name="SuppressionsComponent">
-        <option name="suppComments" value="[]" />
+      <component name="TerminalProjectNonSharedOptionsProvider">
+        <option name="startingDirectory" value="$USER_HOME$/Projects" />
       </component>
       <component name="masterDetails">
         <states>
-          <state key="GlobalLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="JdkListConfigurable.UI">
-            <settings>
-              <last-edited>14</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>14</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ProjectLibrariesConfigurable.UI">
-            <settings>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
