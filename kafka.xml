@@ -1,0 +1,6 @@
+<application>
+  <component name="KafkaSettings">
+    <option name="selectedConnectionId" value="Kafka connection@KafkaConnections@-1314714833621707048" />
+    <option name="showInternalTopics" value="true" />
+  </component>
+</application>
