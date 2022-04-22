@@ -215,7 +215,7 @@
         </entry>
         <entry key="java:S1451">
           <value>
-            <Rule key="java:S1451" />
+            <Rule active="false" key="java:S1451" />
           </value>
         </entry>
         <entry key="java:S1541">
@@ -742,7 +742,7 @@
       <Rule key="java:S2308" />
       <Rule key="java:S1694" />
       <Rule key="java:S2309" />
-      <Rule key="java:S1451" />
+      <Rule active="false" key="java:S1451" />
       <Rule key="java:S1176" />
       <Rule key="java:S6073" />
       <Rule key="java:S4174" />
