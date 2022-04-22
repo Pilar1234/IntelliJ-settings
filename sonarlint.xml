@@ -40,7 +40,7 @@
         </entry>
         <entry key="java:S1106">
           <value>
-            <Rule key="java:S1106" />
+            <Rule active="false" key="java:S1106" />
           </value>
         </entry>
         <entry key="java:S1107">
@@ -50,7 +50,7 @@
         </entry>
         <entry key="java:S1108">
           <value>
-            <Rule key="java:S1108" />
+            <Rule active="false" key="java:S1108" />
           </value>
         </entry>
         <entry key="java:S1109">
@@ -713,11 +713,11 @@
       <Rule key="java:S4551" />
       <Rule key="java:S6212" />
       <Rule key="java:S1109" />
-      <Rule key="java:S1108" />
+      <Rule active="false" key="java:S1108" />
       <Rule key="java:S5128" />
       <Rule key="java:S1107" />
       <Rule key="java:S1228" />
-      <Rule key="java:S1106" />
+      <Rule active="false" key="java:S1106" />
       <Rule key="java:S1105" />
       <Rule key="java:S2658" />
       <Rule key="java:S1067" />
